@@ -7,6 +7,9 @@ author_profile: true
 
 Find below a number of lists of useful resources covering research methods (in general) and specific to Computational Social Sciences and Cyberpsychology; programming in R; data science; media effects and other related areas.
 
+* auto-gen TOC:
+{:toc}
+
 ## Research Methods and Tools
 
 ### Blogs
