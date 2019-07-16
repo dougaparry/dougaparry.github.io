@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <a href="https://scholar.google.co.za/citations?user=EhrDFkYAAAAJ&hl=en">my Google Scholar profile</a>.
+You can also find my articles on <a href="https://scholar.google.co.za/citations?user=EhrDFkYAAAAJ&hl=en">Google Scholar</a>.
   
 
 ## Peer reviewed articles
