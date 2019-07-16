@@ -74,6 +74,7 @@ analytics:
 # Site Author
 author:
   name             : "Douglas A. Parry"
+  bio              : " "
   avatar           : "dougaparry.png"
   location         : "Stellenbosch University"
   employer         : "Information Science"
