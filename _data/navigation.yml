@@ -1,14 +1,12 @@
 # main links links
+
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publications/  
 
   - title: "Teaching"
     url: /teaching/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
-      url: /files/curriculum_vitae.pdf
+    url: /files/cv_latest.pdf
     
