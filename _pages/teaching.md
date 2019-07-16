@@ -7,19 +7,16 @@ author_profile: true
 
 **Socio Informatics 224 (2016 - present)**<br/>
 *Introduction to Computer Programming*<br/>
-Stellenbosch University
 
 This course provides students with an introductory course in computer programming and problem solving. It follows a compound approach of teaching both language agnostic concepts as well as placing these concepts in a concrete form through the use of Python 3. Students are exposed to fundamental concepts in programming such as data types, variables, input, output, flow control (including iteration and decision structures), modules and functions.
 
 **Socio Informatics 314 (2017 - present)**<br/>
 *Database Systems Design*<br/>
-Stellenbosch University
 
 In this course students learn how to model, design, develop, and interact with database systems using modern approaches and tools.
 
 **Socio Informatics 262 (2016)**<br/>
 *Images of Organisation*<br/>
-Stellenbosch University
 
 This is an intermediary course focusing on the phenomenon of organisation. With the help of Gareth Morgan's seminal organisational metaphors, this course introduces a wide range of theories on organisation and organising.
 
