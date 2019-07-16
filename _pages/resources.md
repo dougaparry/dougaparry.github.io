@@ -19,9 +19,9 @@ Find below a number of lists of useful resources covering research methods (in g
 
 ### Books
 
-* [Bit by Bit : Social Research in the Digital Age - Matthew Salganik](https://www.bitbybitbook.com)(Open Book)
-* [Data Visualisation: A practical introduction - Kieran Healy](http://socviz.co)(Open Book)
-* [Fundamentals of Data Visualisation: A primer on making informative and compelling figures - Claus Wilke](https://serialmentor.com/dataviz/)(Open Book)
+* [Bit by Bit : Social Research in the Digital Age - Matthew Salganik](https://www.bitbybitbook.com) (Open Book)
+* [Data Visualisation: A practical introduction - Kieran Healy](http://socviz.co) (Open Book)
+* [Fundamentals of Data Visualisation: A primer on making informative and compelling figures - Claus Wilke](https://serialmentor.com/dataviz/) (Open Book)
 
 ### Useful Papers
 
