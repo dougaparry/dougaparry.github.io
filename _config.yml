@@ -74,12 +74,12 @@ analytics:
 # Site Author
 author:
   name             : "Douglas A. Parry"
-  avatar           : "profile.png"
+  avatar           : "dougaparry.png"
   location         : "Stellenbosch, South Africa"
-  employer         :
+  employer         : "Information Science, Cognition & Technology Research Group"
   pubmed           : 
   googlescholar    : "https://scholar.google.co.za/citations?user=EhrDFkYAAAAJ&hl=en"
-  email            :
+  email            :  "dougaparry@sun.ac.za"
   researchgate     :  "https://www.researchgate.net/profile/Douglas_Parry"
   uri              :
   bitbucket        :
@@ -88,20 +88,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "dougaparry"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/dougaparry/"
+  orcid            : "https://orcid.org/0000-0002-6443-3425"
+  osf              : "https://osf.io/sa5x4/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "dougaparry"
   vine             :
   weibo            :
   xing             :
