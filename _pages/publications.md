@@ -14,7 +14,7 @@ You can also find my articles on <a href="https://scholar.google.co.za/citations
 
 - Mbilini, S., le Roux, D. B.,___Parry, D.A.___, (in press).  *Does automation influence career decisions among South African students?* Proceedings of the 2019 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT 2019), Skakuza, South Africa, ACM.
 
-- ___Parry, D.A.___,  (2019).  Computing Research in South Africa:  A Scientometric Investigation. *South African Computer Journal* 31(3), 51-79. [DOI: 10.18489/sacj.v31i1.674[(https://doi.org/10.18489/sacj.v31i1.674)
+- ___Parry, D.A.___,  (2019).  Computing Research in South Africa:  A Scientometric Investigation. *South African Computer Journal* 31(3), 51-79. [DOI: 10.18489/sacj.v31i1.674](https://doi.org/10.18489/sacj.v31i1.674)
 
 - le  Roux,  D.B., ___Parry, D.A.___,  (2019). Investigating  differences  in  the  attention  distribution strategies of high and low media multitaskers through a two-dimensional game. *Cyberpsychology: Journal of Psychosocial Research on Cyberspace* 13(3). [DOI: 10.5817/CP2019-3-2](https://doi.org/10.5817/CP2019-3-2)
 
