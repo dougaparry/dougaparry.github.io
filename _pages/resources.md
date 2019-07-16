@@ -37,6 +37,7 @@ Find below a number of lists of useful resources covering research methods (in g
 #### Statistics Fundamentals
 
 * [Lakens, D. (2013). Calculating and reporting effect sizes to facilitate cumulative science: a practical primer for t-tests and ANOVAs. Frontiers in psychology, 4.](https://doi.org/10.3389/fpsyg.2013.00863)
+* [Lakens, D., Scheel, A.M., Isager, P.M. (2018) Equivalence Testing for Psychological Research: A Tutorial. Advances in Methods and Practices in Psychological Science, 1-11.](https://doi.org/10.1177/2515245918770963)
 * [Greenland, S., Senn, S. J., Rothman, K. J., Carlin, J. B., Poole, C., Goodman, S. N., & Altman, D. G. (2016). Statistical tests, p values, confidence intervals, and power: a guide to misinterpretations. European journal of epidemiology, 31, 337–350.](https://doi.org/10.1007/s10654-016-0149-3)
 * [De Groot, A. D. (1956/2014). The meaning of “significance” for different types of research. Translated and annotated by Eric-Jan Wagenmakers, Denny Borsboom, Josine Verhagen, Rogier Kievit, Marjan Bakker, Angelique Cramer, Dora Matzke, Don Mellenbergh, and Han L. J. van der Maas. Acta Psychologica, 148 , 188–194.](https://doi.org/10.1016/j.actpsy.2014.02.001)
 * [Kass, R. E., Caffo, B. S., Davidian, M., Meng, X. L., Yu, B., & Reid, N. (2016). Ten Simple Rules for Effective Statistical Practice. PLOS Comput Biol, 12(6), e1004961.](https://doi.org/10.1371/journal.pcbi.1004961)
@@ -106,7 +107,5 @@ __First port of call:__ [How do I...](https://smach.github.io/R4JournalismBook/H
 * [Reproducible Research in Computational Sciences](https://blog.dominodatalab.com/reproducible-research-using-domino/)
 * [What is statistical power? An illustration using simulated data](https://tobiasdienlin.com/2019/03/07/what-is-statistical-power-an-illustration-using-simulated-data/)
 * [The Two Friends Who Changed How We Think About How We Think](https://www.newyorker.com/books/page-turner/the-two-friends-who-changed-how-we-think-about-how-we-think)
-* [Web design is dead](https://mashable.com/2015/07/06/why-web-design-dead/#HwUO48242gq2)
-* [Why even driving through suburbia is soul crushing](https://qz.com/698928/why-suburbia-sucks/)
 
 
