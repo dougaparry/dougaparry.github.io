@@ -97,7 +97,6 @@ __First port of call:__ [How do I...](https://smach.github.io/R4JournalismBook/H
 * [It's the Effect Size, Stupid: What effect size is and why it is important](https://www.leeds.ac.uk/educol/documents/00002182.htm)
 * [Have smartphones really destroyed a generation? We don’t know](https://www.vox.com/science-and-health/2019/2/20/18210498/smartphones-tech-social-media-teens-depression-anxiety-research)
 * [5 years into academia – 45 things I’ve learned so far …](https://tobiasdienlin.com/2017/06/18/5-years-into-academia-things-ive-learned-so-far/)
-* [Would You Survive the Titanic? A Guide to Machine Learning in Python](https://medium.com/learning-new-stuff/would-you-survive-the-titanic-a-guide-to-machine-learning-in-python-f80c9d7b7582)
 * [SQL one of the most valuable skills](http://www.craigkerstiens.com/2019/02/12/sql-most-valuable-skill/)
 * [Data science is different now](https://veekaybee.github.io/2019/02/13/data-science-is-different/)
 * [Data Science Foundations: Know your data. Really, really, know it](https://towardsdatascience.com/data-science-foundations-know-your-data-really-really-know-it-a6bb97eb991c?sk=42f1c02883e744df7dbb618373312244)
