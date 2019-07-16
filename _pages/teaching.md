@@ -15,7 +15,7 @@ This course provides students with an introductory course in computer programmin
 *Database Systems Design*<br/>
 Stellenbosch University
 
-In this course students learn how to model, design, develop, and interact wirg database systems using modern approaches and tools.
+In this course students learn how to model, design, develop, and interact with database systems using modern approaches and tools.
 
 **Socio Informatics 262 (2016)**<br/>
 *Images of Organisation*<br/>
