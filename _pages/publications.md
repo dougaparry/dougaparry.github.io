@@ -23,7 +23,7 @@ You can also find my articles on <a href="https://scholar.google.co.za/citations
 
 - ___Parry, D.A.___, (2019) Book Review: Permanently Online, Permanently Connected: Living and Communicating in a POPC World. *Information, Communication, and Society*. [DOI: 10.1080/1369118X.2019.1590441](https://doi.org/10.1080/1369118X.2019.1590441){:target="_blank"}.
 
-- ___Parry D.A.___, le Roux D.B. (2019) Off-Task Media Use in Lectures: Towards a Theory of Determinants. In: Kabanda S., Suleman H., Gruner S. (eds) *ICT Education. SACLA 2018. Communications in Computer and Information Science*, vol 963. Springer, Cham. [DOI: 10.1007/978-3-030-05813-5_4](https://doi.org/10.1007/978-3-030-05813-5_4){:target="_blank"}.
+- ___Parry D.A.___, le Roux D.B. (2019) Off-Task Media Use in Lectures: Towards a Theory of Determinants. In: Kabanda S., Suleman H., Gruner S. (eds) *ICT Education. SACLA 2018. Communications in Computer and Information Science*, vol 963. Springer, Cham. [DOI: 10.1007/978-3-030-05813-5_4](https://doi.org/10.1007/978-3-030-05813-5_4){:target="_blank"}. [ __[preprint]__](https://dougaparry.com/files/2019_SACLA.pdf){:target="_blank"}
 
 - ___Parry, D. A.___, and le Roux, D. B., (2019) Media multitasking and cognitive control: A systematic review of interventions. *Computers in Human Behaviour*, Volume 92, 316-327. [DOI: 10.1016/j.chb.2018.11.031](https://doi.org/10.1016/j.chb.2018.11.031){:target="_blank"}.
 
@@ -31,7 +31,7 @@ You can also find my articles on <a href="https://scholar.google.co.za/citations
 
 - le Roux, D. B., ___Parry, D. A.___, (2017) In-lecture Media Use and Academic Performance: Does Subject Area matter? *Computers in Human Behaviour*, Volume 77, 86-94. [DOI: 10.1016/j.chb.2017.08.030](https://doi.org/10.1016/j.chb.2017.08.030){:target="_blank"}.
 
-- le Roux D.B., ___Parry D.A.___ (2017) A New Generation of Students: Digital Media in Academic Contexts. In: Liebenberg J., Gruner S. (eds) *ICT Education. SACLA 2017. Communications in Computer and Information Science*, vol 730. Springer, Cham. [DOI: 10.1007/978-3-319-69670-6_2](https://doi.org/10.1007/978-3-319-69670-6_2){:target="_blank"}.
+- le Roux D.B., ___Parry D.A.___ (2017) A New Generation of Students: Digital Media in Academic Contexts. In: Liebenberg J., Gruner S. (eds) *ICT Education. SACLA 2017. Communications in Computer and Information Science*, vol 730. Springer, Cham. [DOI: 10.1007/978-3-319-69670-6_2](https://doi.org/10.1007/978-3-319-69670-6_2){:target="_blank"}. [ __[preprint]__](https://dougaparry.com/files/2017_SACLA.pdf){:target="_blank"}
 
 - ___Parry, D. A.___ (2017) The Digitally Mediated Study Experiences of Undergraduate Students in South Africa. Masters Thesis. Stellenbosch University. [DOI: 10019.1/102667](http://hdl.handle.net/10019.1/102667){:target="_blank"}. __[open access]__
 
