@@ -43,7 +43,7 @@ You can also find my articles on <a href="https://scholar.google.co.za/citations
 
 ## Conference Presentations
 
-- ___Parry, D. A___., le Roux, D. B. & Cornelissen, L. A. (2018). Lecturer versus Smartphone: Towards a Policy for Teaching Distracted Minds. Paper Presented at the 11th Annual Scholarship for Teaching and Learning Conference (SOTL). 29-31 October 2018, Somerset West. ([__slides__](https://doi.org/10.17605/OSF.IO/DVG4U)){:target="_blank"}
+- ___Parry, D. A___., le Roux, D. B. & Cornelissen, L. A. (2018). Lecturer versus Smartphone: Towards a Policy for Teaching Distracted Minds. Paper Presented at the 11th Annual Scholarship for Teaching and Learning Conference (SOTL). 29-31 October 2018, Somerset West. [ __[slides]__](https://doi.org/10.17605/OSF.IO/DVG4U){:target="_blank"}
 
 - ___Parry, D.___, Le Roux, D. B. (2017). Irresistible Media: Why do Students Media Multitask? In the 2017 International CyberSpace Conference. Brno, Czech Republic.
 
