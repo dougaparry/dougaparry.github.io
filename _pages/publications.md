@@ -14,9 +14,9 @@ You can also find my articles on <a href="https://scholar.google.co.za/citations
 
 - Mbilini, S., le Roux, D. B.,___Parry, D.A.___, (in press).  *Does automation influence career decisions among South African students?* Proceedings of the 2019 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT 2019), Skakuza, South Africa, ACM.
 
-- ___Parry, D.A.___,  (2019).  Computing Research in South Africa:  A Scientometric Investigation. *South African Computer Journal* 31(3), 51-79. [DOI: 10.18489/sacj.v31i1.674](https://doi.org/10.18489/sacj.v31i1.674) [open access]
+- ___Parry, D.A.___,  (2019).  Computing Research in South Africa:  A Scientometric Investigation. *South African Computer Journal* 31(3), 51-79. [DOI: 10.18489/sacj.v31i1.674](https://doi.org/10.18489/sacj.v31i1.674) __[open access]__
 
-- le  Roux,  D.B., ___Parry, D.A.___,  (2019). Investigating  differences  in  the  attention  distribution strategies of high and low media multitaskers through a two-dimensional game. *Cyberpsychology: Journal of Psychosocial Research on Cyberspace* 13(3). [DOI: 10.5817/CP2019-3-2](https://doi.org/10.5817/CP2019-3-2) [open access]
+- le  Roux,  D.B., ___Parry, D.A.___,  (2019). Investigating  differences  in  the  attention  distribution strategies of high and low media multitaskers through a two-dimensional game. *Cyberpsychology: Journal of Psychosocial Research on Cyberspace* 13(3). [DOI: 10.5817/CP2019-3-2](https://doi.org/10.5817/CP2019-3-2) __[open access]__
 
 
 - ___Parry, D.A.___,  le  Roux,  D.  B.,  &  Cornelissen,  L.A.,  (2019).   Managing  In-Lecture  Media  Use:The  Feasibility  and  Value  of  a  Split-Class  Policy. *Journal  of  Computing  in  Higher  Education*. [DOI: 10.1007/s12528-019-09232-z4](https://doi.org/10.1007/s12528-019-09232-z4).
@@ -27,13 +27,13 @@ You can also find my articles on <a href="https://scholar.google.co.za/citations
 
 - ___Parry, D. A.___, and le Roux, D. B., (2019) Media multitasking and cognitive control: A systematic review of interventions. *Computers in Human Behaviour*, Volume 92, 316-327. [DOI: 10.1016/j.chb.2018.11.031](https://doi.org/10.1016/j.chb.2018.11.031).
 
-- ___Parry, D. A.___, and le Roux, D. B., (2018) In-lecture Media Use and Academic Performance: Investigating Demographic and Intentional Moderators. *South African Computer Journal*, 30(1), 85-107. [DOI: 10.18489/sacj.v30i1.434 ](https://doi.org/10.18489/sacj.v30i1.434 ) [open access]
+- ___Parry, D. A.___, and le Roux, D. B., (2018) In-lecture Media Use and Academic Performance: Investigating Demographic and Intentional Moderators. *South African Computer Journal*, 30(1), 85-107. [DOI: 10.18489/sacj.v30i1.434 ](https://doi.org/10.18489/sacj.v30i1.434 ) __[open access]__
 
 - le Roux, D. B., ___Parry, D. A.___, (2017) In-lecture Media Use and Academic Performance: Does Subject Area matter? *Computers in Human Behaviour*, Volume 77, 86-94. [DOI: 10.1016/j.chb.2017.08.030](https://doi.org/10.1016/j.chb.2017.08.030).
 
 - le Roux D.B., ___Parry D.A.___ (2017) A New Generation of Students: Digital Media in Academic Contexts. In: Liebenberg J., Gruner S. (eds) *ICT Education. SACLA 2017. Communications in Computer and Information Science*, vol 730. Springer, Cham. [DOI: 10.1007/978-3-319-69670-6_2](https://doi.org/10.1007/978-3-319-69670-6_2).
 
-- ___Parry, D. A.___ (2017) The Digitally Mediated Study Experiences of Undergraduate Students in South Africa. Masters Thesis. Stellenbosch University. [DOI: 10019.1/102667](http://hdl.handle.net/10019.1/102667). [open access]
+- ___Parry, D. A.___ (2017) The Digitally Mediated Study Experiences of Undergraduate Students in South Africa. Masters Thesis. Stellenbosch University. [DOI: 10019.1/102667](http://hdl.handle.net/10019.1/102667). __[open access]__
 
 - Pretorius A., ___Parry DA.___ (2016) Human Decision Making and Artificial Intelligence - A Comparison in the Domain of Sports Prediction. In: Coetzee M, Ehlers E, Coulter D, Marnewick C, Leung WS (eds.) *Proceedings of the 2016 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT)*, Johannesburg, South Africa. [DOI: 10.1145/2987491.2987493](https://doi.org/10.1145/2987491.2987493). ([__code__](https://github.com/arnupretorius/RWCPrediction))
 
