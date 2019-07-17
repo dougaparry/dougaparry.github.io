@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Most of the articles below are either available through *open access* or I have attached a *preprint*. If not, send me an email and I will gladly share the manuscript. You can also find my articles on <a href="https://scholar.google.co.za/citations?user=EhrDFkYAAAAJ&hl=en">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Douglas_Parry">ResearchGate</a>.
+Most of the articles below are either available through *open access* or I have attached a *preprint*. If not, send me an email and I will gladly share the manuscript. You can also find my articles on <a href="https://scholar.google.co.za/citations?user=EhrDFkYAAAAJ&hl=en" target="_blank">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Douglas_Parry" target="_blank">ResearchGate</a>.
 
 ## Peer reviewed articles
 
