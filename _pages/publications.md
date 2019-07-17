@@ -39,7 +39,7 @@ You can also find my articles on <a href="https://scholar.google.co.za/citations
 
 - Leysens J-L., le Roux D.B., ___Parry, D.A.___ (2016) Can I have your attention please? An empirical investigation of media multitasking during university lectures In: Coetzee M, Ehlers E, Coulter D, Marnewick C, Leung WS (eds.) *Proceedings of the 2016 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT)*, Johannesburg, South Africa. [DOI: 10.1145/2987491.2987498](https://doi.org/10.1145/2987491.2987498).
 
-- ___Parry D.A.___, Pretorius C. (2015) Maps as a technique for visualizing load-shedding schedules. In: Barnett, R. J., Cleophas, L., Kourie, D. G., le Roux, D. B., Watson, B. W. (eds.) *Proceedings of the 2015 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT)*, Stellenbosch, South Africa.  [DOI: 10.1145/2815782.2815784](https://doi.org/10.1145/2815782.2815784). __[preprint]__(/files/2015_SAICSIT.pdf)
+- ___Parry D.A.___, Pretorius C. (2015) Maps as a technique for visualizing load-shedding schedules. In: Barnett, R. J., Cleophas, L., Kourie, D. G., le Roux, D. B., Watson, B. W. (eds.) *Proceedings of the 2015 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT)*, Stellenbosch, South Africa.  [DOI: 10.1145/2815782.2815784](https://doi.org/10.1145/2815782.2815784). __[preprint]__(https://dougaparry.com/files/2015_SAICSIT.pdf)
 
 ## Conference Presentations
 
