@@ -17,8 +17,7 @@ Most of the articles below are either available through *open access* or I have 
 
 - le  Roux,  D.B., ___Parry, D.A.___,  (2019). Investigating  differences  in  the  attention  distribution strategies of high and low media multitaskers through a two-dimensional game. *Cyberpsychology: Journal of Psychosocial Research on Cyberspace* 13(3). [DOI: 10.5817/CP2019-3-2](https://doi.org/10.5817/CP2019-3-2){:target="_blank"} __[open access]__
 
-
-- ___Parry, D.A.___,  le  Roux,  D.  B.,  &  Cornelissen,  L.A.,  (2019).   Managing  In-Lecture  Media  Use:The  Feasibility  and  Value  of  a  Split-Class  Policy. *Journal  of  Computing  in  Higher  Education*. [DOI: 10.1007/s12528-019-09232-z4](https://doi.org/10.1007/s12528-019-09232-z4){:target="_blank"}.
+- ___Parry, D.A.___,  le  Roux,  D.  B.,  &  Cornelissen,  L.A.,  (2019).   Managing  In-Lecture  Media  Use: The  Feasibility  and  Value  of  a  Split-Class  Policy. *Journal  of  Computing  in  Higher  Education*. [DOI: 10.1007/s12528-019-09232-z4](https://doi.org/10.1007/s12528-019-09232-z4){:target="_blank"}. [ __[preprint]__](https://dougaparry.com/files/JCHE_pre_print.pdf){:target="_blank"}
 
 - ___Parry, D.A.___, (2019) Book Review: Permanently Online, Permanently Connected: Living and Communicating in a POPC World. *Information, Communication, and Society*. [DOI: 10.1080/1369118X.2019.1590441](https://doi.org/10.1080/1369118X.2019.1590441){:target="_blank"}.
 
