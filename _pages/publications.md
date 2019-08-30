@@ -9,6 +9,8 @@ Most of the articles below are either available through *open access* or I have 
 
 ## Peer reviewed articles
 
+-  le Roux, D. B., ___Parry, D.A.___, (in press). Off-task Media Use in Academic Settings: Cycles of Self-regulation Failure. Journal of American College Health.
+
 -  Broughton, A., Daly, M.D., Marx, N., Nieuwoudt, M., le Roux, D. B., ___Parry, D.A.___, (in press). *An exploratory investigation of online and offline social behaviour among digital natives*. Proceedings of the 2019 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT 2019), Skakuza, South Africa, ACM.
 
 - Mbilini, S., le Roux, D. B.,___Parry, D.A.___, (in press).  *Does automation influence career decisions among South African students?* Proceedings of the 2019 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT 2019), Skakuza, South Africa, ACM. [DOI: 10.1145/3351108.3351137](https://doi.org/10.1145/3351108.3351137){:target="_blank"}
