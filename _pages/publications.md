@@ -21,7 +21,7 @@ Most of the articles below are either available through *open access* or I have 
 
 - ___Parry, D.A.___,  le  Roux,  D.  B.,  &  Cornelissen,  L.A.,  (2019).   Managing  In-Lecture  Media  Use: The  Feasibility  and  Value  of  a  Split-Class  Policy. *Journal  of  Computing  in  Higher  Education*. [DOI: 10.1007/s12528-019-09232-z4](https://doi.org/10.1007/s12528-019-09232-z4){:target="_blank"}. [ __[preprint]__](https://dougaparry.com/files/JCHE_pre_print.pdf){:target="_blank"}
 
-- ___Parry, D.A.___, (2019) Book Review: Permanently Online, Permanently Connected: Living and Communicating in a POPC World. *Information, Communication, and Society*. [DOI: 10.1080/1369118X.2019.1590441](https://doi.org/10.1080/1369118X.2019.1590441){:target="_blank"}.
+- ___Parry, D.A.___, (2019) Book Review: Permanently Online, Permanently Connected: Living and Communicating in a POPC World. *Information, Communication, and Society* 22(12), 1841-1844. [DOI: 10.1080/1369118X.2019.1590441](https://doi.org/10.1080/1369118X.2019.1590441){:target="_blank"}.
 
 - ___Parry D.A.___, le Roux D.B. (2019) Off-Task Media Use in Lectures: Towards a Theory of Determinants. In: Kabanda S., Suleman H., Gruner S. (eds) *ICT Education. SACLA 2018. Communications in Computer and Information Science*, vol 963. Springer, Cham. [DOI: 10.1007/978-3-030-05813-5_4](https://doi.org/10.1007/978-3-030-05813-5_4){:target="_blank"}. [ __[preprint]__](https://dougaparry.com/files/2019_SACLA.pdf){:target="_blank"}
 
