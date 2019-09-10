@@ -9,7 +9,7 @@ Most of the articles below are either available through *open access* or I have 
 
 ## Peer reviewed articles
 
--  le Roux, D. B., ___Parry, D.A.___, (2019). Off-task Media Use in Academic Settings: Cycles of Self-regulation Failure. *Journal of American College Health*. [DOI: 10.1080/07448481.2019.1656636](https://doi.org/10.1080/07448481.2019.1656636){:target="_blank"}.
+-  le Roux, D. B., ___Parry, D.A.___, (2019). Off-task Media Use in Academic Settings: Cycles of Self-regulation Failure. *Journal of American College Health*. [DOI: 10.1080/07448481.2019.1656636](https://doi.org/10.1080/07448481.2019.1656636){:target="_blank"}. [ __[preprint]__](http://suinformatics.com/wp-content/uploads/2019/09/JACH_author_manuscript.pdf){:target="_blank"}
 
 -  Broughton, A., Daly, M.D., Marx, N., Nieuwoudt, M., le Roux, D. B., ___Parry, D.A.___, (in press). *An exploratory investigation of online and offline social behaviour among digital natives*. Proceedings of the 2019 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT 2019), Skakuza, South Africa, ACM. [DOI: 10.1145/3351108.3351146](https://doi.org/10.1145/3351108.3351146){:target="_blank"}. [ __[preprint]__](https://psyarxiv.com/8exrw){:target="_blank"}
 
