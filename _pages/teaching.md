@@ -32,7 +32,7 @@ The focus of this block is to introduce students to data analysis techniques tha
 
 *Enterprise Systems* (2017, 2018)<br/>
 
-This block has two primary focus areas. The first is the examination of the notion of enterprise systems, their role in organisations, and the various socio-technical challenges that they present. The second focus area applies the above concepts and more specialised themes to the study of enterprise system selection in small to medium sized enterprises and the notion of fit between these orgaanisations and selected enterprise systems.
+This block has two primary focus areas. The first is the examination of the notion of enterprise systems, their role in organisations, and the various socio-technical challenges that they present. The second focus area applies the above concepts and more specialised themes to the study of enterprise system selection in small to medium sized enterprises and the notion of fit between these organisations and selected enterprise systems.
 
 *Project Management* (2017-present)<br/>
 
