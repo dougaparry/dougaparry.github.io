@@ -9,6 +9,8 @@ Most of the articles below are either available through *open access* or I have 
 
 ## Peer reviewed articles
 
+- __Parry, D. A.__, le Roux, D. B., Bantjes, J. R., (2020).  Testing the Feasibility of a Media Multitask-ing Self-regulation Intervention for Students:  Behaviour Change, Attention, and Self-perception. *Computers in Human Behavior*  104 [DOI: 10.1016/j.chb.2019.106182](https://doi.org/10.1016/j.chb.2019.106182){:target="_blank"}. [ __[preprint]__](https://doi.org/10.31234/osf.io/r8kdp){:target="_blank"} 
+
 -  le Roux, D. B., ___Parry, D.A.___, (2019). Off-task Media Use in Academic Settings: Cycles of Self-regulation Failure. *Journal of American College Health*. [DOI: 10.1080/07448481.2019.1656636](https://doi.org/10.1080/07448481.2019.1656636){:target="_blank"}. [ __[preprint]__](http://suinformatics.com/wp-content/uploads/2019/09/JACH_author_manuscript.pdf){:target="_blank"}
 
 -  Broughton, A., Daly, M.D., Marx, N., Nieuwoudt, M., le Roux, D. B., ___Parry, D.A.___, (in press). *An exploratory investigation of online and offline social behaviour among digital natives*. Proceedings of the 2019 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT 2019), Skakuza, South Africa, ACM. [DOI: 10.1145/3351108.3351146](https://doi.org/10.1145/3351108.3351146){:target="_blank"}. [ __[preprint]__](https://psyarxiv.com/8exrw){:target="_blank"}
@@ -43,6 +45,10 @@ Most of the articles below are either available through *open access* or I have 
 
 ## Conference Presentations
 
+- Abendroth, A., Krasnova, H., Gundlach, J., __Parry, D. A.__, le Roux, D. B. (2019).  Technology Use  Addiction:  Scales,  Dimensions,  Validity? Presented at the 17th International  CyberSpace  Conference  Brno, Czech Republic.
+
+- le  Roux,  D.  B., __Parry,  D. A.__ (2019).   Towards  an  Integrated  Framework  of  Technology  UseDimensions17thInternational CyberSpace Conference Brno, Czech Republic.
+
 - ___Parry, D. A___., le Roux, D. B. & Cornelissen, L. A. (2018). Lecturer versus Smartphone: Towards a Policy for Teaching Distracted Minds. Paper Presented at the 11th Annual Scholarship for Teaching and Learning Conference (SOTL). 29-31 October 2018, Somerset West. [ __[slides]__](https://doi.org/10.17605/OSF.IO/DVG4U){:target="_blank"}
 
 - ___Parry, D.___, Le Roux, D. B. (2017). Irresistible Media: Why do Students Media Multitask? In the 2017 International CyberSpace Conference. Brno, Czech Republic.
@@ -56,6 +62,12 @@ Most of the articles below are either available through *open access* or I have 
 - ___Parry, D.A.___, le Roux DB, Leysens JL. (2016) Media Multitasking in Academic Contexts: An Empirical Analysis of Media Use Within University lectures. In the 9th Annual Scholarship for Teaching and Learning conference (SOTL), Somerset West.
 
 ## Seminars/Colloquia/Invited Talks
+
+- __Parry, D.A.__ (2019) Collecting Digital Trace Data & Quantitative Text Analysis:  An introduction.  Methods Workshop presented at The Weizenbaum Institute for the Networked Society – The German Internet Institute, Berlin, Germany.
+
+- __Parry,  D.A.__ (2019) Systematic Reviews & Meta-Analyses:  An introduction.  Methods Workshop presented at The Weizenbaum Institute for the Networked Society – The German Internet Institute, Berlin, Germany.
+
+- __Parry, D.A.__ (2019) Technology use effects:  current evidence and challenges.  Invited Seminar presented at the Department of Statistics and Actuarial Science, Stellenbosch University, South Africa.
 
 - ___Parry, D.A.___ and le Roux D. B. (2018) Permanently Online, Permanently Connected: Media Multitasking and Distractibility - Is It So Bad and What Can We Do About It? Milton H. Erikson Annual Conference 2018. Somerset West, South Africa.
 
