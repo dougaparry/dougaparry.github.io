@@ -79,6 +79,10 @@ Most of the articles below are either available through *open access* or I have 
 
 - ___Parry, D.A.___ Pretorius, A. (2016) Human Decision Making and Artificial Intelligence - Predicting Sports Results. Colloquium Presented at the Information Science Departmental Colloquia, 2016 Series, Stellenbosch University, South Africa
 
+## Dissertations
+
+- __Parry, D.A.__ (2017) The digitally-mediated study experiences of undergraduate students in South Africa. Master's Thesis, Stellenbosch University. __[open access]__(hdl.handle.net/10019.1/102667){:target="_blank"} 
+
 
 
 
