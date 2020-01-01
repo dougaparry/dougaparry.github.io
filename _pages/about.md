@@ -10,7 +10,7 @@ redirect_from:
 
 I am an early career researcher in Socio Informatics with interests in Computational Social Science, Human-Computer Interaction, and Cyberpsychology. My research concerns the interplay between digital technologies, human cognition, behaviour, performance, and affective well-being across a variety of life-situations.
 
-I hold a faculty position teaching and supervising within the undergraduate and postgraduate Socio Informatics programs as part of the [Department of Information Science](http://suinformatics.com) at Stellenbosch University. As a member of the [Cognition and Technology Research Group (CTRG)](http://suinformatics.com/ctrg), I am involved in a number of research projects concerning the interplay between digital technologies, human cognition and affective wellbeing. I hold a bachelors degree majoring in Socio-Informatics and Economics, and Honours, Masters and Doctoral degrees in Socio-Informatics.
+I hold a faculty position with the  [Department of Information Science](http://suinformatics.com) at Stellenbosch University and am a member of the [Cognition and Technology Research Group (CTRG)](http://suinformatics.com/ctrg). I hold a bachelors degree majoring in Socio-Informatics and Economics, and Honours, Masters and Doctoral degrees in Socio-Informatics. 
 
 Have any questions or want to collaborate? Feel free to [email](mailto:dougaparry@sun.ac.za) me or send me a message on [Twitter](https://twitter.com/dougaparry). I am open to supervision of Master's or Doctoral research projects. If you are interested in working with me as part of the [CTRG](http://suinformatics.com/ctrg) please read [this document](https://dougaparry.com/files/supervision.pdf){:target="_blank"} on preparing an application for supervision.
 
