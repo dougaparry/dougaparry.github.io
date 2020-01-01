@@ -81,9 +81,9 @@ Most of the articles below are either available through *open access* or I have 
 
 ## Dissertations
 
-- __Parry, D.A.__ (2019) Media Multitasking and Cognitive Control:  Assessing the Feasibility of an InterventionRequiring the Self-regulation of Smartphone Use. Doctoral Thesis, Stellenbosch University. [__[open access]__](hdl.handle.net/10019.1/107323){:target="_blank"} 
+- __Parry, D.A.__ (2019) Media Multitasking and Cognitive Control:  Assessing the Feasibility of an InterventionRequiring the Self-regulation of Smartphone Use. Doctoral Thesis, Stellenbosch University. [__[open access]__](https://hdl.handle.net/10019.1/107323){:target="_blank"} 
 
-- __Parry, D.A.__ (2017) The digitally-mediated study experiences of undergraduate students in South Africa. Masters Thesis, Stellenbosch University. [__[open access]__](hdl.handle.net/10019.1/102667){:target="_blank"} 
+- __Parry, D.A.__ (2017) The digitally-mediated study experiences of undergraduate students in South Africa. Masters Thesis, Stellenbosch University. [__[open access]__](https://hdl.handle.net/10019.1/102667){:target="_blank"} 
 
 - __Parry, D.A.__ (2015) An investigation of alternative information displays for load-shedding schedules. Honours Thesis, Stellenbosch University. 
 
