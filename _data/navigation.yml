@@ -8,7 +8,10 @@ main:
     url: /teaching/    
     
   - title: "Resources"
-    url: /resources/    
+    url: /resources/  
+    
+   - title: "Blog"
+    url: /year-archive/    
     
   - title: "CV"
     url: /files/curriculum_vitae.pdf
