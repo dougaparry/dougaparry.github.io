@@ -9,6 +9,14 @@ Most of the articles below are either available through *open access* or I have 
 
 ## Peer reviewed articles
 
+ - Abendroth, A., __Parry, D. A.__, le Roux, D. B., Gundlach, J., (in press).  An analysis of prob-lematic media use and technology use addiction scales – what are they actually assessing? *Responsible design, implementation and use of information and communications technology - I3E2020. Lecture Notes in Computer Science*, Springer, Cham.  
+ 
+- le Roux, D. B., __Parry,  D. A.__, (in press). The Town Square in your Pocket: Exploring Four Metaphors of Social Media.  *Responsible design, implementation and use of information and communications technology - I3E2020. Lecture Notes in Computer Science*, Springer, Cham.  
+
+- __Parry, D.  A.__, le Roux, D. B., (in press). Introducing the Media Use Behaviour Concep-tual Framework. *Responsible design, implementation and use of information and communications technology - I3E2020. Lecture Notes in Computer Science*, Springer, Cham.  
+
+- Dienlin, T., Johannes, N., Bowman, N. D., Masur, P. K., Engesser, S., Kumpel, A. S., Lukito, J., Bier, L. M., Zhang, R., Johnson, B. K., Huskey, R., Fisher, J. T., Schneider, F. M., Breuer, J., __Parry, D. A.__, Banks, J., TeBlunthuis, N., Vermeulen, I., Smits, T., Weber, R., Won, A. S., Ellis, D. A., Unkel, J., Wang, X., Trepte, S., Ivory, J. D., Neubaum, G., Bachl, M., Winter, S., Davidson, B. I., Kim, N., Kramer, N., Utz, S., Carpenter, C. J., Levine, T. R., Lewis, N. A., Rinke, E. M., McEwan, B., Domahidi, E., de Vreese, C., (in press).  An Agenda for Open Science inCommunication. *Journal of Communication*.
+
 - __Parry, D. A.__, le Roux, D. B., Bantjes, J. R., (2020).  Testing the Feasibility of a Media Multitask-ing Self-regulation Intervention for Students:  Behaviour Change, Attention, and Self-perception. *Computers in Human Behavior*  104 [DOI: 10.1016/j.chb.2019.106182](https://doi.org/10.1016/j.chb.2019.106182){:target="_blank"}. [ __[preprint]__](https://doi.org/10.31234/osf.io/r8kdp){:target="_blank"} 
 
 -  le Roux, D. B., ___Parry, D.A.___, (2019). Off-task Media Use in Academic Settings: Cycles of Self-regulation Failure. *Journal of American College Health*. [DOI: 10.1080/07448481.2019.1656636](https://doi.org/10.1080/07448481.2019.1656636){:target="_blank"}. [ __[preprint]__](http://suinformatics.com/wp-content/uploads/2019/09/JACH_author_manuscript.pdf){:target="_blank"}
