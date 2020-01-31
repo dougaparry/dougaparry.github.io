@@ -5,15 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-Most of the articles below are either available through *open access* or I have attached a *preprint*. If not, send me an email and I will gladly share the manuscript. You can also find my articles on <a href="https://scholar.google.co.za/citations?user=EhrDFkYAAAAJ&hl=en" target="_blank">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Douglas_Parry" target="_blank">ResearchGate</a>.
+Most of the articles below are either available *open access* or I have attached a *preprint*. If not, send me an email and I will gladly share the manuscript. You can also find my articles on <a href="https://scholar.google.co.za/citations?user=EhrDFkYAAAAJ&hl=en" target="_blank">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Douglas_Parry" target="_blank">ResearchGate</a>.
 
 ## Peer reviewed articles
 
- - Abendroth, A., __Parry, D. A.__, le Roux, D. B., Gundlach, J., (in press).  An analysis of problematic media use and technology use addiction scales – what are they actually assessing? *Responsible design, implementation and use of information and communications technology - I3E2020. Lecture Notes in Computer Science*, Springer, Cham.   [ __[preprint]__](https://doi.org/10.31234/osf.io/qgra8){:target="_blank"} 
+ - Abendroth, A., __Parry, D. A.__, le Roux, D. B., Gundlach, J., (in press).  An analysis of problematic media use and technology use addiction scales – what are they actually assessing? *Responsible design, implementation and use of information and communications technology - I3E2020. Lecture Notes in Computer Science*, Springer, Cham. [ __[preprint]__](https://doi.org/10.31234/osf.io/qgra8){:target="_blank"} 
  
-- le Roux, D. B., __Parry,  D. A.__, (in press). The Town Square in your Pocket: Exploring Four Metaphors of Social Media.  *Responsible design, implementation and use of information and communications technology - I3E2020. Lecture Notes in Computer Science*, Springer, Cham.  [ __[preprint]__](https://osf.io/preprints/socarxiv/58bvj){:target="_blank"} 
+- le Roux, D. B., __Parry,  D. A.__, (in press). The Town Square in your Pocket: Exploring Four Metaphors of Social Media.  *Responsible design, implementation and use of information and communications technology - I3E2020. Lecture Notes in Computer Science*, Springer, Cham. [ __[preprint]__](https://osf.io/preprints/socarxiv/58bvj){:target="_blank"} 
 
-- __Parry, D.  A.__, le Roux, D. B., (in press). Introducing the Media Use Behaviour Conceptual Framework. *Responsible design, implementation and use of information and communications technology - I3E2020. Lecture Notes in Computer Science*, Springer, Cham.  [ __[preprint]__](https://doi.org/10.31234/osf.io/3cz9p){:target="_blank"} 
+- __Parry, D.  A.__, le Roux, D. B., (in press). Introducing the Media Use Behaviour Conceptual Framework. *Responsible design, implementation and use of information and communications technology - I3E2020. Lecture Notes in Computer Science*, Springer, Cham. [ __[preprint]__](https://doi.org/10.31234/osf.io/3cz9p){:target="_blank"} 
 
 - Dienlin, T., Johannes, N., Bowman, N. D., Masur, P. K., Engesser, S., Kumpel, A. S., Lukito, J., Bier, L. M., Zhang, R., Johnson, B. K., Huskey, R., Fisher, J. T., Schneider, F. M., Breuer, J., __Parry, D. A.__, Banks, J., TeBlunthuis, N., Vermeulen, I., Smits, T., Weber, R., Won, A. S., Ellis, D. A., Unkel, J., Wang, X., Trepte, S., Ivory, J. D., Neubaum, G., Bachl, M., Winter, S., Davidson, B. I., Kim, N., Kramer, N., Utz, S., Carpenter, C. J., Levine, T. R., Lewis, N. A., Rinke, E. M., McEwan, B., Domahidi, E., de Vreese, C., (in press).  An agenda for open science in communication. *Journal of Communication*.
 
