@@ -11,7 +11,7 @@ Most of the articles below are either available through *open access* or I have 
 
  - Abendroth, A., __Parry, D. A.__, le Roux, D. B., Gundlach, J., (in press).  An analysis of problematic media use and technology use addiction scales – what are they actually assessing? *Responsible design, implementation and use of information and communications technology - I3E2020. Lecture Notes in Computer Science*, Springer, Cham.  
  
-- le Roux, D. B., __Parry,  D. A.__, (in press). The Town Square in your Pocket: Exploring Four Metaphors of Social Media.  *Responsible design, implementation and use of information and communications technology - I3E2020. Lecture Notes in Computer Science*, Springer, Cham.  
+- le Roux, D. B., __Parry,  D. A.__, (in press). The Town Square in your Pocket: Exploring Four Metaphors of Social Media.  *Responsible design, implementation and use of information and communications technology - I3E2020. Lecture Notes in Computer Science*, Springer, Cham.  [ __[preprint]__](https://osf.io/preprints/socarxiv/58bvj){:target="_blank"} 
 
 - __Parry, D.  A.__, le Roux, D. B., (in press). Introducing the Media Use Behaviour Conceptual Framework. *Responsible design, implementation and use of information and communications technology - I3E2020. Lecture Notes in Computer Science*, Springer, Cham.  [ __[preprint]__](https://doi.org/10.31234/osf.io/3cz9p){:target="_blank"} 
 
