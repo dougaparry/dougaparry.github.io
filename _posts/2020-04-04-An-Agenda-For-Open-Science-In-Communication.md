@@ -25,4 +25,5 @@ In response, The Journal of Communication is devoting a [special issue to the to
 * Impacts on Humanities and Qualitative Research: A systematic understanding of how open science impacts those in the humanities and qualitative social sciences.
 
 Link to article: [https://doi.org/10.1093/joc/jqz052](https://doi.org/10.1093/joc/jqz052)
+
 Special issue call:[https://academic.oup.com/joc/pages/open-comm-cfp](https://academic.oup.com/joc/pages/open-comm-cfp)
