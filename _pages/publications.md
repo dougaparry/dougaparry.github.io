@@ -7,6 +7,8 @@ author_profile: true
 
 Most of the articles below are either available *open access* or I have attached a *preprint*. If not, send me an email and I will gladly share the manuscript. You can also find my articles on <a href="https://scholar.google.co.za/citations?user=EhrDFkYAAAAJ&hl=en" target="_blank">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Douglas_Parry" target="_blank">ResearchGate</a>.
 
+ <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 ## Peer reviewed articles
 
  - Abendroth, A., __Parry, D. A.__, le Roux, D. B., Gundlach, J., (in press).  An analysis of problematic media use and technology use addiction scales – what are they actually assessing?In: Hattingh M., Matthee M., Smuts H., Pappas I., Dwivedi Y., Mäntymäki M. (eds) *Responsible Design, Implementation and Use of Information and Communication Technology. I3E 2020. Lecture Notes in Computer Science*, vol 12067. Springer, Cham. DOI: [10.1007/978-3-030-45002-1_18](https://doi.org/10.1007/978-3-030-45002-1_18) [ __[preprint]__](https://doi.org/10.31234/osf.io/qgra8){:target="_blank"} 
