@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an early career researcher in Socio Informatics with interests in Computational Social Science, Human-Computer Interaction, and Cyberpsychology. My research concerns the interplay between digital technologies, human cognition, behaviour, performance, and affective well-being across a variety of life-situations.
+I am an early career researcher in Socio Informatics with interests in Computational Social Science, Human-Computer Interaction, and Cyberpsychology. While different interpretations exist, at SU, Socio-Informatics resembles an amalgamation of the fields of Communication and Information Systems, with emphasis falling simultaneously on user-oriented aspects of media use as well as production aspects of developing software for business contexts. My research primarily concerns the interplay between digital technologies, human cognition, behaviour, performance, and affective well-being across a variety of life-situations.
 
 I hold a faculty position with the [Department of Information Science](http://suinformatics.com) at Stellenbosch University and am a member of the [Cognition and Technology Research Group (CTRG)](http://suinformatics.com/ctrg). I hold a bachelors degree majoring in Socio-Informatics and Economics, and Honours, Masters and Doctoral degrees in Socio-Informatics. 
 
