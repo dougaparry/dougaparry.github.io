@@ -13,7 +13,7 @@ Most of the articles below are either available *open access* or I have attached
 
 - Dienlin, T., Johannes, N., Bowman, N. D., Masur, P. K., Engesser, S., Kumpel, A. S., Lukito, J., Bier, L. M., Zhang, R., Johnson, B. K., Huskey, R., Fisher, J. T., Schneider, F. M., Breuer, J., __Parry, D. A.__, Banks, J., TeBlunthuis, N., Vermeulen, I., Smits, T., Weber, R., Won, A. S., Ellis, D. A., Unkel, J., Wang, X., Trepte, S., Ivory, J. D., Neubaum, G., Bachl, M., Winter, S., Davidson, B. I., Kim, N., Kramer, N., Utz, S., Carpenter, C. J., Levine, T. R., Lewis, N. A., Rinke, E. M., McEwan, B., Domahidi, E., de Vreese, C., (advance online).  An agenda for open science in communication. *Journal of Communication*. DOI: [10.1093/joc/jqz052](https://doi.org/10.1093/joc/jqz052){:target="_blank"}.
 
-- le Roux, D. B., __Parry, D. A.__, (In press) Investigating Predictors of Online Vigilance among University Students. Information Technology & People.
+- le Roux, D. B., __Parry, D. A.__, (2021) Investigating Predictors of Online Vigilance among University Students. *Information Technology & People.* DOI: [0.1108/ITP-04-2020-0226](https://doi.org/10.1108/ITP-04-2020-0226){:target-"_blank"}. [ __[preprint]__](https://doi.org/10.31234/osf.io/bcuwr){:target="_blank"} 
 
 - Henry, M. S., le Roux, D. B., __Parry, D. A.__, (In press). Working in a Post Covid-19 World: Towards a Conceptual Framework for Distributed Work. South African Journal of Business Management. 
 
@@ -59,13 +59,15 @@ Most of the articles below are either available *open access* or I have attached
 
 ## Conference Presentations
 
-- Dienlin, T., Johannes, N., Bowman, N. D., Masur, P. K., Engesser, S., Kumpel, A. S., Lukito, J., Bier, L. M., Zhang, R., Johnson, B. K., Huskey, R., Fisher, J. T., Schneider, F. M., Breuer, J., __Parry, D. A.__, Banks, J., TeBlunthuis, N., Vermeulen, I., Smits, T., Weber, R., Won, A. S., Ellis, D. A., Unkel, J., Wang, X., Trepte, S., Ivory, J. D., Neubaum, G., Bachl, M., Winter, S., Davidson, B. I., Kim, N., Kramer, N., Utz, S., Carpenter, C. J., Levine, T. R., Lewis, N. A., Rinke, E. M., McEwan, B., Domahidi, E., de Vreese, C., (2020). An Agenda for Open Science in Communication. Paper to be presented at the *70th annual conference of the International Communication Association (ICA)*, Virtual (due to COVID-19 pandemic).
+- __Parry, D. A.__, le Roux, D. B., Morton, J., Pons, R., Pretorius, R., Schoeman, A., (2020). Are 'Digital Wellbeing Applications' Important for Digital Wellbeing? *18th International CyberSpace Conference*.
 
-- Abendroth, A., Krasnova, H., Gundlach, J., __Parry, D. A.__, le Roux, D. B. (2019).  Technology Use  Addiction:  Scales,  Dimensions, Validity? Presented at the 17th International CyberSpace Conference. Brno, Czech Republic.
+- Dienlin, T., Johannes, N., Bowman, N. D., Masur, P. K., Engesser, S., Kumpel, A. S., Lukito, J., Bier, L. M., Zhang, R., Johnson, B. K., Huskey, R., Fisher, J. T., Schneider, F. M., Breuer, J., __Parry, D. A.__, Banks, J., TeBlunthuis, N., Vermeulen, I., Smits, T., Weber, R., Won, A. S., Ellis, D. A., Unkel, J., Wang, X., Trepte, S., Ivory, J. D., Neubaum, G., Bachl, M., Winter, S., Davidson, B. I., Kim, N., Kramer, N., Utz, S., Carpenter, C. J., Levine, T. R., Lewis, N. A., Rinke, E. M., McEwan, B., Domahidi, E., de Vreese, C., (2020). An Agenda for Open Science in Communication. *70th annual conference of the International Communication Association (ICA)*.
+
+- Abendroth, A., Krasnova, H., Gundlach, J., __Parry, D. A.__, le Roux, D. B. (2019).  Technology Use  Addiction:  Scales,  Dimensions, Validity? 17th International CyberSpace Conference. Brno, Czech Republic.
 
 - le  Roux,  D.  B., __Parry,  D. A.__ (2019). Towards an Integrated Framework of Technology Use Dimensions. 17th International CyberSpace Conference. Brno, Czech Republic.
 
-- ___Parry, D. A___., le Roux, D. B. & Cornelissen, L. A. (2018). Lecturer versus Smartphone: Towards a Policy for Teaching Distracted Minds. Paper Presented at the 11th Annual Scholarship for Teaching and Learning Conference (SOTL). 29-31 October 2018, Somerset West. [ __[slides]__](https://doi.org/10.17605/OSF.IO/DVG4U){:target="_blank"}
+- ___Parry, D. A___., le Roux, D. B. & Cornelissen, L. A. (2018). Lecturer versus Smartphone: Towards a Policy for Teaching Distracted Minds. Paper Presented at the 11th Annual Scholarship for Teaching and Learning Conference (SOTL). 29-31 October 2018, Somerset West.
 
 - ___Parry, D.___, Le Roux, D. B. (2017). Irresistible Media: Why do Students Media Multitask? In the 2017 International CyberSpace Conference. Brno, Czech Republic.
 
@@ -78,6 +80,10 @@ Most of the articles below are either available *open access* or I have attached
 - ___Parry, D.A.___, le Roux DB, Leysens JL. (2016) Media Multitasking in Academic Contexts: An Empirical Analysis of Media Use Within University lectures. In the 9th Annual Scholarship for Teaching and Learning conference (SOTL), Somerset West.
 
 ## Seminars/Colloquia/Invited Talks
+
+- __Parry, D.A.__(2020) How accurate are self-reports of digital media use?  Invited Seminar presented at theDepartment of Communication Science, Vrije Universiteit Amsterdam, The Netherlands.
+
+- __Parry, D.A.__ (2020) Media effects Research:  Our work and current challenges.  Invited Seminar presentedat the Department of Journalism, Stellenbosch University, South Africa.
 
 - __Parry, D.A.__ (2019) Collecting Digital Trace Data & Quantitative Text Analysis:  An introduction.  Methods Workshop presented at The Weizenbaum Institute for the Networked Society – The German Internet Institute, Berlin, Germany.
 
