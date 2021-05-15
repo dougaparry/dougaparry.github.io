@@ -11,11 +11,18 @@ Most of the articles below are either available *open access* or I have attached
 
 ## Peer reviewed articles
 
-- Dienlin, T., Johannes, N., Bowman, N. D., Masur, P. K., Engesser, S., Kumpel, A. S., Lukito, J., Bier, L. M., Zhang, R., Johnson, B. K., Huskey, R., Fisher, J. T., Schneider, F. M., Breuer, J., __Parry, D. A.__, Banks, J., TeBlunthuis, N., Vermeulen, I., Smits, T., Weber, R., Won, A. S., Ellis, D. A., Unkel, J., Wang, X., Trepte, S., Ivory, J. D., Neubaum, G., Bachl, M., Winter, S., Davidson, B. I., Kim, N., Kramer, N., Utz, S., Carpenter, C. J., Levine, T. R., Lewis, N. A., Rinke, E. M., McEwan, B., Domahidi, E., de Vreese, C., (advance online).  An agenda for open science in communication. *Journal of Communication*. DOI: [10.1093/joc/jqz052](https://doi.org/10.1093/joc/jqz052){:target="_blank"}.
+- __Parry, D. A.__, Davidson, B. I., Sewall, C. J., Fisher, J. T., Mieczkowski, H., Quintana, D. S., (2021). A Systematic Review and Meta-Analysis of Discrepancies Between Logged and Self-Reported Digital Media Use. Nature Human Behaviour. doi.org/10.1038/s41562-021-01117-5. [ __[preprint]__](https://doi.org/10.31234/osf.io/f6xvz){:target="_blank"} 
 
-- le Roux, D. B., __Parry, D. A.__, (2021) Investigating Predictors of Online Vigilance among University Students. *Information Technology & People.* DOI: [0.1108/ITP-04-2020-0226](https://doi.org/10.1108/ITP-04-2020-0226){:target-"_blank"}. [ __[preprint]__](https://doi.org/10.31234/osf.io/bcuwr){:target="_blank"} 
 
-- Henry, M. S., le Roux, D. B., __Parry, D. A.__, (In press). Working in a Post Covid-19 World: Towards a Conceptual Framework for Distributed Work. South African Journal of Business Management. 
+- Sewall, C.,__Parry, D. A.__ (in press) The role of depression in the discrepancy between estimated and actual smartphone use: A cubic response surface analysis. Technology, Mind, and Behaviour. doi.org/10.1037/tmb0000036. [ __[preprint]__](https://doi.org/10.31219/osf.io/e9pfa){:target="_blank"} 
+
+- __Parry, D. A.__, le Roux, D.B. (2021). "Cognitive Control in Media Multitaskers" Ten Years On: A Meta-Analysis. Cyberpsychology: Journal of Psychosocial Research on Cyberspace 15(2), 2 – 7. DOI: [10.5817/CP2021-2-7](https://doi.org/10.5817/CP2021-2-7){:target="_blank"} __[open access]__
+
+- Dienlin, T., Johannes, N., Bowman, N. D., Masur, P. K., Engesser, S., Kumpel, A. S., Lukito, J., Bier, L. M., Zhang, R., Johnson, B. K., Huskey, R., Fisher, J. T., Schneider, F. M., Breuer, J., __Parry, D. A.__, Banks, J., TeBlunthuis, N., Vermeulen, I., Smits, T., Weber, R., Won, A. S., Ellis, D. A., Unkel, J., Wang, X., Trepte, S., Ivory, J. D., Neubaum, G., Bachl, M., Winter, S., Davidson, B. I., Kim, N., Kramer, N., Utz, S., Carpenter, C. J., Levine, T. R., Lewis, N. A., Rinke, E. M., McEwan, B., Domahidi, E., de Vreese, C., (2021).  An agenda for open science in communication. *Journal of Communication*. 71(1), 1 - 26. DOI: [10.1093/joc/jqz052](https://doi.org/10.1093/joc/jqz052){:target="_blank"}. __[open access]__
+
+- le Roux, D. B., __Parry, D. A.__, (2021) Investigating Predictors of Online Vigilance among University Students. (advance online) *Information Technology & People.* DOI: [0.1108/ITP-04-2020-0226](https://doi.org/10.1108/ITP-04-2020-0226){:target-"_blank"}. [ __[preprint]__](https://doi.org/10.31234/osf.io/bcuwr){:target="_blank"} 
+
+- Henry, M. S., le Roux, D. B., __Parry, D. A.__, (2021). Working in a Post Covid-19 World: Towards a Conceptual Framework for Distributed Work. South African Journal of Business Management. 52(1). DOI: [10.4102/sajbm.v52i1.2155](https://doi.org/10.4102/sajbm.v52i1.2155){:target="_blank"} __[open access]__
 
 - le Roux, D. B., __Parry, D. A.__, Totolo, A., Iyawa, G., Holloway, J., Prenter, A., & Botha L. (2021). Media Multitasking, Online Vigilance and Academic Performance among Students in three Southern African Countries. Computers and Education, 160. DOI: [10.1016/j.compedu.2020.104056](https://doi.org/10.1016/j.compedu.2020.104056) [ __[preprint]__](https://doi.org/10.31235/osf.io/rwdtg){:target="_blank"} 
 
@@ -56,62 +63,6 @@ Most of the articles below are either available *open access* or I have attached
 - Leysens J-L., le Roux D.B., ___Parry, D.A.___ (2016) Can I have your attention please? An empirical investigation of media multitasking during university lectures In: Coetzee M, Ehlers E, Coulter D, Marnewick C, Leung WS (eds.) *Proceedings of the 2016 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT)*, Johannesburg, South Africa. [DOI: 10.1145/2987491.2987498](https://doi.org/10.1145/2987491.2987498){:target="_blank"}. [ __[preprint]__](https://dougaparry.com/files/2016_SAICSIT.pdf){:target="_blank"}
 
 - ___Parry D.A.___, Pretorius C. (2015) Maps as a technique for visualizing load-shedding schedules. In: Barnett, R. J., Cleophas, L., Kourie, D. G., le Roux, D. B., Watson, B. W. (eds.) *Proceedings of the 2015 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT)*, Stellenbosch, South Africa.  [DOI: 10.1145/2815782.2815784](https://doi.org/10.1145/2815782.2815784){:target="_blank"}.[ __[preprint]__](https://dougaparry.com/files/2015_SAICSIT.pdf){:target="_blank"}
-
-## Conference Presentations
-
-- __Parry, D. A.__, le Roux, D. B., Morton, J., Pons, R., Pretorius, R., Schoeman, A., (2020). Are 'Digital Wellbeing Applications' Important for Digital Wellbeing? *18th International CyberSpace Conference*.
-
-- Dienlin, T., Johannes, N., Bowman, N. D., Masur, P. K., Engesser, S., Kumpel, A. S., Lukito, J., Bier, L. M., Zhang, R., Johnson, B. K., Huskey, R., Fisher, J. T., Schneider, F. M., Breuer, J., __Parry, D. A.__, Banks, J., TeBlunthuis, N., Vermeulen, I., Smits, T., Weber, R., Won, A. S., Ellis, D. A., Unkel, J., Wang, X., Trepte, S., Ivory, J. D., Neubaum, G., Bachl, M., Winter, S., Davidson, B. I., Kim, N., Kramer, N., Utz, S., Carpenter, C. J., Levine, T. R., Lewis, N. A., Rinke, E. M., McEwan, B., Domahidi, E., de Vreese, C., (2020). An Agenda for Open Science in Communication. *70th annual conference of the International Communication Association (ICA)*.
-
-- Abendroth, A., Krasnova, H., Gundlach, J., __Parry, D. A.__, le Roux, D. B. (2019).  Technology Use  Addiction:  Scales,  Dimensions, Validity? 17th International CyberSpace Conference. Brno, Czech Republic.
-
-- le  Roux,  D.  B., __Parry,  D. A.__ (2019). Towards an Integrated Framework of Technology Use Dimensions. 17th International CyberSpace Conference. Brno, Czech Republic.
-
-- ___Parry, D. A___., le Roux, D. B. & Cornelissen, L. A. (2018). Lecturer versus Smartphone: Towards a Policy for Teaching Distracted Minds. Paper Presented at the 11th Annual Scholarship for Teaching and Learning Conference (SOTL). 29-31 October 2018, Somerset West.
-
-- ___Parry, D.___, Le Roux, D. B. (2017). Irresistible Media: Why do Students Media Multitask? In the 2017 International CyberSpace Conference. Brno, Czech Republic.
-
-- Le Roux, D. B., ___Parry, D.A.___ (2017). Metaphors of Social Media. In the 2017 International CyberSpace Conference. Brno, Czech Republic.
-
-- ___Parry, D. A.___, and le Roux D. B. (2017). Smartphones in lectures. Is Resistance Futile? In the 10th Annual Scholarship for Teaching and Learning Conference (SOTL), Somerset West.
-
-- Le Roux, D. B., ___Parry, D.A.___, & Leysens, J. (2016). Smart Phones, Stupid People. In 14th International CyberSpace Conference. Brno, Czech Republic.
-
-- ___Parry, D.A.___, le Roux DB, Leysens JL. (2016) Media Multitasking in Academic Contexts: An Empirical Analysis of Media Use Within University lectures. In the 9th Annual Scholarship for Teaching and Learning conference (SOTL), Somerset West.
-
-## Seminars/Colloquia/Invited Talks
-
-- __Parry, D.A.__(2020) How accurate are self-reports of digital media use?  Invited Seminar presented at theDepartment of Communication Science, Vrije Universiteit Amsterdam, The Netherlands.
-
-- __Parry, D.A.__ (2020) Media effects Research:  Our work and current challenges.  Invited Seminar presentedat the Department of Journalism, Stellenbosch University, South Africa.
-
-- __Parry, D.A.__ (2019) Collecting Digital Trace Data & Quantitative Text Analysis:  An introduction.  Methods Workshop presented at The Weizenbaum Institute for the Networked Society – The German Internet Institute, Berlin, Germany.
-
-- __Parry,  D.A.__ (2019) Systematic Reviews & Meta-Analyses:  An introduction.  Methods Workshop presented at The Weizenbaum Institute for the Networked Society – The German Internet Institute, Berlin, Germany.
-
-- __Parry, D.A.__ (2019) Technology use effects:  current evidence and challenges.  Invited Seminar presented at the Department of Statistics and Actuarial Science, Stellenbosch University, South Africa.
-
-- ___Parry, D.A.___ and le Roux D. B. (2018) Permanently Online, Permanently Connected: Media Multitasking and Distractibility - Is It So Bad and What Can We Do About It? Milton H. Erikson Annual Conference 2018. Somerset West, South Africa.
-
-- le Roux, D.B., ___Parry, D.A.___, (2017) The Relationship Between Media Multitasking and Cognition – What Do We Know? Seminar Presented at the Whitaker Institute for Innovation and Societal Change, NUI Galway, Ireland.
-
-- le Roux, D.B., ___Parry, D.A.___, (2017) Media Multitasking and Distractibility: Where we are, how we got here and where we’re going. Seminar Presented at the Chair for Business Informatics, Social Media and Data Science, University of Potsdam, Germany.
-
-- le Roux, D.B. and ___Parry, D.A.___ (2017) The State of Research Concerning the Relationship between Media Multitasking and Cognition. Colloquium Presented at the Information Science Departmental Colloquia, 2017 Series, Stellenbosch University, South Africa
-
-- ___Parry, D.A.___ Pretorius, A. (2016) Human Decision Making and Artificial Intelligence - Predicting Sports Results. Colloquium Presented at the Information Science Departmental Colloquia, 2016 Series, Stellenbosch University, South Africa
-
-## Dissertations
-
-- __Parry, D.A.__ (2019) Media Multitasking and Cognitive Control:  Assessing the Feasibility of an Intervention Requiring the Self-regulation of Smartphone Use. Doctoral Thesis, Stellenbosch University. [__[open access]__](https://hdl.handle.net/10019.1/107323){:target="_blank"} 
-
-- __Parry, D.A.__ (2017) The digitally-mediated study experiences of undergraduate students in South Africa. Masters Thesis, Stellenbosch University. [__[open access]__](https://hdl.handle.net/10019.1/102667){:target="_blank"} 
-
-- __Parry, D.A.__ (2015) An investigation of alternative information displays for load-shedding schedules. Honours Thesis, Stellenbosch University. 
-
-
-
-
 
 
 
