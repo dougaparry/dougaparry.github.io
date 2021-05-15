@@ -7,7 +7,7 @@ author_profile: true
 
 **Socio Informatics 224 (2016 - present);** *Introduction to Computer Programming*<br/>
 
-This course provides students with an introductory course in computer programming and problem solving. It follows a compound approach of teaching both language agnostic concepts as well as placing these concepts in a concrete form through the use of Python 3. Students are exposed to fundamental concepts in programming such as data types, variables, input, output, flow control (including iteration and decision structures), modules and functions.
+This course provides an introduction to computer programming and problem solving. It uses Python to introduce fundamental programing concepts such as data types, variables, input, output, flow control (including iteration and decision structures), modules and functions.
 
 **Socio Informatics 314 (2017 - present):** *Database Systems Design*<br/>
 
@@ -15,19 +15,17 @@ In this course students learn how to model, design, develop, and interact with d
 
 **Socio Informatics 262 (2016):** *Images of Organisation*<br/>
 
-This is an intermediary course focusing on the phenomenon of organisation. With the help of Gareth Morgan's seminal organisational metaphors, this course introduces a wide range of theories on organisation and organising.
+This is an intermediary course focusing on the phenomenon of organisation. With the help of Gareth Morgan's organisational metaphors, the course introduces a range of theories on organisation and organising.
 
 ## HonsBCom Information Systems Management: 
 
-*Research Theory* (2017, 2018): This block aims to equip students to complete their Honours-level research projects. Emphasis is placed, simultaneously, on understanding fundamental components of the research cyle, as well as the essential tools and techniques for effectively conducting a research project.
+*Research Theory* (2017, 2018): This block aims to equip students to complete their Honours-level research projects. Emphasis is placed on understanding fundamental components of the research cyle, as well as the essential tools and techniques for effectively conducting a research project.
 
 *Data Analysis* (2019-present): The focus of this block is to introduce students to data analysis techniques that can be used for statistical or other data tasks. This block covers programming in R, data cleaning, data shaping and manipulation as well as some exploratory data analysis and visualisation. 
 
 *Enterprise Systems* (2017, 2018): This block has two primary focus areas. The first is the examination of the notion of enterprise systems, their role in organisations, and the various socio-technical challenges that they present. The second focus area applies the above concepts and more specialised themes to the study of enterprise system selection in small to medium sized enterprises and the notion of fit between these organisations and selected enterprise systems.
 
-*Project Management* (2017-present)<br/>
-
-This block introduces students to key concepts of project management in the context of Information Technology projects. A particular emphasis is placed on Agile techniques.
+*Project Management* (2017-present): This block introduces students to key concepts of project management in the context of Information Technology projects. A particular emphasis is placed on Agile techniques.
 
 
 
