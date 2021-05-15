@@ -14,7 +14,7 @@ My research focuses on a broad spectrum of media uses and effects and generally 
 
 I am an advocate for mixed methods and routinely combine quantitative, qualitative, and computational designs. I am also a fan of meta-research and have experience with systematic reviews and meta-analyses. Across these approaches, I follow [open science practices](https://academic.oup.com/joc/article/71/1/1/5803422) and, wherever possible, I aim to make my materials, data, and analyses publicly available.
 
-My research has been published in leading journals in Socio-Informatics (and related fields), such as: _Nature Human Behaviour_; _Journal of Communication_; _Technology, Mind and Behaviour_; _Information Technology & People_; _Computers & Education_; and _Computers and Human Behaviour_. I have collaborated with researchers from across the globe at a variety of institutions (including: 
+My research has been published in leading journals in Socio-Informatics (and related fields), such as: _Nature Human Behaviour_; _Journal of Communication_; _Technology, Mind and Behaviour_; _Information Technology & People_; _Computers & Education_; and _Computers and Human Behaviour_. I have collaborated with researchers from across the globe (including: 
 The German Internet Institute, The University of Potsdam, The University of Bath, The University of Pittsburgh, Stanford University, The University of Illinois, and Oslo University), but am always open to new collaborations.
 
 Have any questions or want to collaborate? [Email](mailto:dougaparry@sun.ac.za) me or send me a message on [Twitter](https://twitter.com/dougaparry). 
