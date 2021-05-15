@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Undergraduate Teaching:
+
 **Socio Informatics 224 (2016 - present):** *Introduction to Computer Programming*
 
 This course provides an introduction to computer programming and problem solving. It uses Python to introduce fundamental programing concepts such as data types, variables, input, output, flow control (including iteration and decision structures), modules and functions.
@@ -17,7 +19,9 @@ In this course students learn how to model, design, develop, and interact with d
 
 This is an intermediary course focusing on the phenomenon of organisation. With the help of Gareth Morgan's organisational metaphors, the course introduces a range of theories on organisation and organising.
 
-## HonsBCom Information Systems Management: 
+### Postgraduate Teaching:
+
+**Bachelor of Commerce (Honours) Information Systems Management:** 
 
 *Research Theory* (2017, 2018): This block aims to equip students to complete their Honours-level research projects. Emphasis is placed on understanding fundamental components of the research cyle, as well as the essential tools and techniques for effectively conducting a research project.
 
@@ -27,5 +31,7 @@ This is an intermediary course focusing on the phenomenon of organisation. With 
 
 *Project Management* (2017-present): This block introduces students to key concepts of project management in the context of Information Technology projects. A particular emphasis is placed on Agile techniques.
 
+**Postgraduate Diploma in Knowledge and Information Management:**
 
+*Data Analysis* (2021): This session focuses on introducing the data analysis process, with an in-depth discussion of data collection, management, and wrangling, as well as exploratory data analysis techniques and modelling.
 
