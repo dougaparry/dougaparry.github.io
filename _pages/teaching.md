@@ -25,7 +25,7 @@ author_profile: true
 
 - *Project Management* (2017-present): This block introduces students to key concepts of project management in the context of Information Technology projects. A particular emphasis is placed on Agile techniques.
 
-**Postgraduate Diploma in Knowledge and Information Management:**
+**Postgraduate Diploma in Knowledge and Information Systems Management:**
 
 - *Data Analysis* (2021): This session focuses on introducing the data analysis process, with an in-depth discussion of data collection, management, and wrangling, as well as exploratory data analysis techniques and modelling.
 
