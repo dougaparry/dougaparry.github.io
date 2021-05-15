@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Socio Informatics 224 (2016 - present);** *Introduction to Computer Programming*<br/>
+**Socio Informatics 224 (2016 - present):** *Introduction to Computer Programming*<br/>
 
 This course provides an introduction to computer programming and problem solving. It uses Python to introduce fundamental programing concepts such as data types, variables, input, output, flow control (including iteration and decision structures), modules and functions.
 
