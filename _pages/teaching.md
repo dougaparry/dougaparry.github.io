@@ -5,15 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Socio Informatics 224 (2016 - present):** *Introduction to Computer Programming*<br/>
+**Socio Informatics 224 (2016 - present):** *Introduction to Computer Programming*
 
 This course provides an introduction to computer programming and problem solving. It uses Python to introduce fundamental programing concepts such as data types, variables, input, output, flow control (including iteration and decision structures), modules and functions.
 
-**Socio Informatics 314 (2017 - present):** *Database Systems Design*<br/>
+**Socio Informatics 314 (2017 - present):** *Database Systems Design*
 
 In this course students learn how to model, design, develop, and interact with database systems using modern approaches and tools.
 
-**Socio Informatics 262 (2016):** *Images of Organisation*<br/>
+**Socio Informatics 262 (2016):** *Images of Organisation*
 
 This is an intermediary course focusing on the phenomenon of organisation. With the help of Gareth Morgan's organisational metaphors, the course introduces a range of theories on organisation and organising.
 
