@@ -7,8 +7,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Resources"
-    url: /resources/  
+#  - title: "Resources"
+#    url: /resources/  
     
 #  - title: "Blog"
 #    url: /year-archive/    
