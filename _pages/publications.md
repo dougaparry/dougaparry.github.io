@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Most of the articles below are either available *open access* or I have attached a *preprint*. If not, send me an email and I will gladly share the manuscript. You can also find my articles on <a href="https://scholar.google.co.za/citations?user=EhrDFkYAAAAJ&hl=en" target="_blank">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Douglas_Parry" target="_blank">ResearchGate</a>.
+Most of the articles below are either available *open access* or I have attached a *preprint*. If not, send me an email and I will gladly share the manuscript. You can also find my articles on <a href="https://scholar.google.co.za/citations?user=EhrDFkYAAAAJ&hl=en" target="_blank">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Douglas_Parry" target="_blank">ResearchGate</a>, or linked in my <a href="https://dougaparry.com/files/curriculum_vitae.pdf" target = "_blank">CV</a>.
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
@@ -13,10 +13,11 @@ Most of the articles below are either available *open access* or I have attached
 
 - __Parry, D. A.__, Davidson, B. I., Sewall, C. J., Fisher, J. T., Mieczkowski, H., Quintana, D. S., (2021). A Systematic Review and Meta-Analysis of Discrepancies Between Logged and Self-Reported Digital Media Use. Nature Human Behaviour. doi.org/10.1038/s41562-021-01117-5. [ __[preprint]__](https://doi.org/10.31234/osf.io/f6xvz){:target="_blank"} 
 
-
-- Sewall, C.,__Parry, D. A.__ (in press) The role of depression in the discrepancy between estimated and actual smartphone use: A cubic response surface analysis. Technology, Mind, and Behaviour. doi.org/10.1037/tmb0000036. [ __[preprint]__](https://doi.org/10.31219/osf.io/e9pfa){:target="_blank"} 
+- Sewall, C.,__Parry, D. A.__ (2021) The role of depression in the discrepancy between estimated and actual smartphone use: A cubic response surface analysis. Technology, Mind, and Behaviour. doi.org/10.1037/tmb0000036. [ __[preprint]__](https://doi.org/10.31219/osf.io/e9pfa){:target="_blank"} 
 
 - __Parry, D. A.__, le Roux, D.B. (2021). "Cognitive Control in Media Multitaskers" Ten Years On: A Meta-Analysis. Cyberpsychology: Journal of Psychosocial Research on Cyberspace 15(2), 2 – 7. DOI: [10.5817/CP2021-2-7](https://doi.org/10.5817/CP2021-2-7){:target="_blank"} __[open access]__
+
+- le Roux, D. B., __Parry, D. A.__ (2021). An exploratory investigation of the use and effects of academic instant messaging groups among university students. Education and Information Technologies. [10.1007/s10639-021-10631-y.](https://doi.org/10.1007/s10639-021-10631-y){:target="_blank"}
 
 - Dienlin, T., Johannes, N., Bowman, N. D., Masur, P. K., Engesser, S., Kumpel, A. S., Lukito, J., Bier, L. M., Zhang, R., Johnson, B. K., Huskey, R., Fisher, J. T., Schneider, F. M., Breuer, J., __Parry, D. A.__, Banks, J., TeBlunthuis, N., Vermeulen, I., Smits, T., Weber, R., Won, A. S., Ellis, D. A., Unkel, J., Wang, X., Trepte, S., Ivory, J. D., Neubaum, G., Bachl, M., Winter, S., Davidson, B. I., Kim, N., Kramer, N., Utz, S., Carpenter, C. J., Levine, T. R., Lewis, N. A., Rinke, E. M., McEwan, B., Domahidi, E., de Vreese, C., (2021).  An agenda for open science in communication. *Journal of Communication*. 71(1), 1 - 26. DOI: [10.1093/joc/jqz052](https://doi.org/10.1093/joc/jqz052){:target="_blank"}. __[open access]__
 
