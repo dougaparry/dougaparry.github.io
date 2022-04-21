@@ -11,6 +11,8 @@ Most of the articles below are either available *open access* or I have attached
 
 ## Peer reviewed articles
 
+- __Parry, D. A.__, Fisher, J. T., Mieczkowski, H., Sewall, C. J. R., Davidson, B. I., (2022). Social Media and Well- being: A Methodological Perspective. Current Opinion in Psychology 45. doi.org/10.1016/j.copsyc.2021.11.005. [__[preprint]__](https://doi.org/10.31234/osf.io/exhru){:target="_blank"} 
+
 - __Parry, D. A.__, Davidson, B. I., Sewall, C. J., Fisher, J. T., Mieczkowski, H., Quintana, D. S., (2021). A Systematic Review and Meta-Analysis of Discrepancies Between Logged and Self-Reported Digital Media Use. Nature Human Behaviour. doi.org/10.1038/s41562-021-01117-5. [ __[preprint]__](https://doi.org/10.31234/osf.io/f6xvz){:target="_blank"} 
 
 - Sewall, C.,__Parry, D. A.__ (2021) The role of depression in the discrepancy between estimated and actual smartphone use: A cubic response surface analysis. Technology, Mind, and Behaviour. doi.org/10.1037/tmb0000036. [ __[preprint]__](https://doi.org/10.31219/osf.io/e9pfa){:target="_blank"} 
